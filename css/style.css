@@ -1,0 +1,11 @@
+body {justify-content: center;}
+.container{
+    background-color:grey;}
+h2{text-align:right;
+    text-decoration:none;
+    padding:5px 40px;
+    font-family:serif; 
+}
+.formgroup{float:right;
+
+}

@@ -6,7 +6,8 @@ body {justify-content: center;
 h2{text-align:right;
     text-decoration:none;
     padding:5px 40px;
-    font-family:serif; 
+    font-family:serif;
+    color:burlywood; 
 }
 .formgroup{float:right;
 

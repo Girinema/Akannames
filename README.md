@@ -6,3 +6,7 @@ this project is a application that take you birth date along wit your gender and
 1 enter birthday (day,month,year)
 then enter gender(male or female)
 click on submit
+##Contact information
+email:gracegirinema@gmail.com
+##License and Copyright information
+Copyright august 2019
